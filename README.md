@@ -6,4 +6,4 @@
 ```
 conda env create -f environment.yml
 ```
-4. Explore and interact with the IPython notebook EuroSAT_baseline.ipynb.
+3. Explore and interact with the IPython notebook EuroSAT_baseline.ipynb.
