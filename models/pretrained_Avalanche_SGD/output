@@ -1,0 +1,1093 @@
+<avalanche.benchmarks.scenarios.generic_scenario.CLScenario object at 0x7f9ccdd42350>
+Starting experiment...
+Start of experience:  0
+Current Classes:  {2, 6}
+-- >> Start of training phase << --
+100%|██████████| 16/16 [00:07<00:00,  2.01it/s]
+Epoch 0 ended.
+	Loss_Epoch/train_phase/train_stream = 2.3145
+	Loss_MB/train_phase/train_stream = 2.2133
+	Top1_Acc_Epoch/train_phase/train_stream = 0.1021
+	Top1_Acc_MB/train_phase/train_stream = 0.1552
+100%|██████████| 16/16 [00:07<00:00,  2.11it/s]
+Epoch 1 ended.
+	Loss_Epoch/train_phase/train_stream = 2.0636
+	Loss_MB/train_phase/train_stream = 1.9626
+	Top1_Acc_Epoch/train_phase/train_stream = 0.3382
+	Top1_Acc_MB/train_phase/train_stream = 0.4828
+100%|██████████| 16/16 [00:07<00:00,  2.14it/s]
+Epoch 2 ended.
+	Loss_Epoch/train_phase/train_stream = 1.7898
+	Loss_MB/train_phase/train_stream = 1.6603
+	Top1_Acc_Epoch/train_phase/train_stream = 0.6125
+	Top1_Acc_MB/train_phase/train_stream = 0.6379
+100%|██████████| 16/16 [00:07<00:00,  2.14it/s]
+Epoch 3 ended.
+	Loss_Epoch/train_phase/train_stream = 1.5513
+	Loss_MB/train_phase/train_stream = 1.4828
+	Top1_Acc_Epoch/train_phase/train_stream = 0.7540
+	Top1_Acc_MB/train_phase/train_stream = 0.7586
+100%|██████████| 16/16 [00:07<00:00,  2.13it/s]
+Epoch 4 ended.
+	Loss_Epoch/train_phase/train_stream = 1.3423
+	Loss_MB/train_phase/train_stream = 1.2033
+	Top1_Acc_Epoch/train_phase/train_stream = 0.8107
+	Top1_Acc_MB/train_phase/train_stream = 0.8190
+100%|██████████| 16/16 [00:07<00:00,  2.13it/s]
+Epoch 5 ended.
+	Loss_Epoch/train_phase/train_stream = 1.1782
+	Loss_MB/train_phase/train_stream = 1.1116
+	Top1_Acc_Epoch/train_phase/train_stream = 0.8370
+	Top1_Acc_MB/train_phase/train_stream = 0.8362
+100%|██████████| 16/16 [00:07<00:00,  2.14it/s]
+Epoch 6 ended.
+	Loss_Epoch/train_phase/train_stream = 1.0495
+	Loss_MB/train_phase/train_stream = 0.9803
+	Top1_Acc_Epoch/train_phase/train_stream = 0.8615
+	Top1_Acc_MB/train_phase/train_stream = 0.8879
+100%|██████████| 16/16 [00:07<00:00,  2.14it/s]
+Epoch 7 ended.
+	Loss_Epoch/train_phase/train_stream = 0.9248
+	Loss_MB/train_phase/train_stream = 0.8746
+	Top1_Acc_Epoch/train_phase/train_stream = 0.8645
+	Top1_Acc_MB/train_phase/train_stream = 0.8707
+100%|██████████| 16/16 [00:07<00:00,  2.13it/s]
+Epoch 8 ended.
+	Loss_Epoch/train_phase/train_stream = 0.8245
+	Loss_MB/train_phase/train_stream = 0.8487
+	Top1_Acc_Epoch/train_phase/train_stream = 0.8804
+	Top1_Acc_MB/train_phase/train_stream = 0.8879
+100%|██████████| 16/16 [00:07<00:00,  2.14it/s]
+Epoch 9 ended.
+	Loss_Epoch/train_phase/train_stream = 0.7405
+	Loss_MB/train_phase/train_stream = 0.7115
+	Top1_Acc_Epoch/train_phase/train_stream = 0.8903
+	Top1_Acc_MB/train_phase/train_stream = 0.8707
+100%|██████████| 16/16 [00:07<00:00,  2.13it/s]
+Epoch 10 ended.
+	Loss_Epoch/train_phase/train_stream = 0.6734
+	Loss_MB/train_phase/train_stream = 0.6476
+	Top1_Acc_Epoch/train_phase/train_stream = 0.8933
+	Top1_Acc_MB/train_phase/train_stream = 0.9224
+ 12%|█▎        | 2/16 [03:46<26:27, 113.37s/it]
+100%|██████████| 16/16 [00:07<00:00,  2.08it/s]
+Epoch 11 ended.
+	Loss_Epoch/train_phase/train_stream = 0.6131
+	Loss_MB/train_phase/train_stream = 0.7508
+	Top1_Acc_Epoch/train_phase/train_stream = 0.8986
+	Top1_Acc_MB/train_phase/train_stream = 0.9138
+100%|██████████| 16/16 [00:07<00:00,  2.13it/s]
+Epoch 12 ended.
+	Loss_Epoch/train_phase/train_stream = 0.5536
+	Loss_MB/train_phase/train_stream = 0.5539
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9085
+	Top1_Acc_MB/train_phase/train_stream = 0.9052
+100%|██████████| 16/16 [00:07<00:00,  2.13it/s]
+Epoch 13 ended.
+	Loss_Epoch/train_phase/train_stream = 0.5080
+	Loss_MB/train_phase/train_stream = 0.5482
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9110
+	Top1_Acc_MB/train_phase/train_stream = 0.8879
+100%|██████████| 16/16 [00:07<00:00,  2.13it/s]
+Epoch 14 ended.
+	Loss_Epoch/train_phase/train_stream = 0.4666
+	Loss_MB/train_phase/train_stream = 0.5144
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9118
+	Top1_Acc_MB/train_phase/train_stream = 0.9052
+100%|██████████| 16/16 [00:07<00:00,  2.13it/s]
+Epoch 15 ended.
+	Loss_Epoch/train_phase/train_stream = 0.4354
+	Loss_MB/train_phase/train_stream = 0.4157
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9163
+	Top1_Acc_MB/train_phase/train_stream = 0.9052
+100%|██████████| 16/16 [00:07<00:00,  2.12it/s]
+Epoch 16 ended.
+	Loss_Epoch/train_phase/train_stream = 0.4059
+	Loss_MB/train_phase/train_stream = 0.4048
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9211
+	Top1_Acc_MB/train_phase/train_stream = 0.9138
+100%|██████████| 16/16 [00:07<00:00,  2.12it/s]
+Epoch 17 ended.
+	Loss_Epoch/train_phase/train_stream = 0.3744
+	Loss_MB/train_phase/train_stream = 0.4479
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9247
+	Top1_Acc_MB/train_phase/train_stream = 0.8793
+100%|██████████| 16/16 [00:07<00:00,  2.13it/s]
+Epoch 18 ended.
+	Loss_Epoch/train_phase/train_stream = 0.3496
+	Loss_MB/train_phase/train_stream = 0.3053
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9300
+	Top1_Acc_MB/train_phase/train_stream = 0.9397
+100%|██████████| 16/16 [00:07<00:00,  2.12it/s]
+Epoch 19 ended.
+	Loss_Epoch/train_phase/train_stream = 0.3273
+	Loss_MB/train_phase/train_stream = 0.3722
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9320
+	Top1_Acc_MB/train_phase/train_stream = 0.8966
+100%|██████████| 16/16 [00:07<00:00,  2.13it/s]
+Epoch 20 ended.
+	Loss_Epoch/train_phase/train_stream = 0.3154
+	Loss_MB/train_phase/train_stream = 0.2935
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9333
+	Top1_Acc_MB/train_phase/train_stream = 0.9310
+100%|██████████| 16/16 [00:07<00:00,  2.13it/s]
+Epoch 21 ended.
+	Loss_Epoch/train_phase/train_stream = 0.2979
+	Loss_MB/train_phase/train_stream = 0.2708
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9376
+	Top1_Acc_MB/train_phase/train_stream = 0.9310
+100%|██████████| 16/16 [00:07<00:00,  2.13it/s]
+Epoch 22 ended.
+	Loss_Epoch/train_phase/train_stream = 0.2822
+	Loss_MB/train_phase/train_stream = 0.2633
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9355
+	Top1_Acc_MB/train_phase/train_stream = 0.9569
+100%|██████████| 16/16 [00:07<00:00,  2.13it/s]
+Epoch 23 ended.
+	Loss_Epoch/train_phase/train_stream = 0.2682
+	Loss_MB/train_phase/train_stream = 0.2465
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9434
+	Top1_Acc_MB/train_phase/train_stream = 0.9483
+100%|██████████| 16/16 [00:07<00:00,  2.12it/s]
+Epoch 24 ended.
+	Loss_Epoch/train_phase/train_stream = 0.2596
+	Loss_MB/train_phase/train_stream = 0.2420
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9411
+	Top1_Acc_MB/train_phase/train_stream = 0.9569
+100%|██████████| 16/16 [00:07<00:00,  2.12it/s]
+Epoch 25 ended.
+	Loss_Epoch/train_phase/train_stream = 0.2397
+	Loss_MB/train_phase/train_stream = 0.2506
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9451
+	Top1_Acc_MB/train_phase/train_stream = 0.9397
+100%|██████████| 16/16 [00:07<00:00,  2.13it/s]
+Epoch 26 ended.
+	Loss_Epoch/train_phase/train_stream = 0.2270
+	Loss_MB/train_phase/train_stream = 0.2675
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9522
+	Top1_Acc_MB/train_phase/train_stream = 0.9397
+100%|██████████| 16/16 [00:07<00:00,  2.13it/s]
+Epoch 27 ended.
+	Loss_Epoch/train_phase/train_stream = 0.2195
+	Loss_MB/train_phase/train_stream = 0.3160
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9477
+	Top1_Acc_MB/train_phase/train_stream = 0.9052
+100%|██████████| 16/16 [00:07<00:00,  2.08it/s]
+Epoch 28 ended.
+	Loss_Epoch/train_phase/train_stream = 0.2119
+	Loss_MB/train_phase/train_stream = 0.2179
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9510
+	Top1_Acc_MB/train_phase/train_stream = 0.9483
+100%|██████████| 16/16 [00:07<00:00,  2.13it/s]
+Epoch 29 ended.
+	Loss_Epoch/train_phase/train_stream = 0.2062
+	Loss_MB/train_phase/train_stream = 0.1749
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9520
+	Top1_Acc_MB/train_phase/train_stream = 0.9828
+-- >> End of training phase << --
+Training completed
+Computing accuracy on the whole test set
+-- >> Start of eval phase << --
+-- Starting eval on experience 0 (Task 0) from test stream --
+100%|██████████| 5/5 [00:00<00:00,  6.74it/s]
+> Eval on experience 0 (Task 0) from test stream ended.
+	Loss_Exp/eval_phase/test_stream/Task000/Exp000 = 0.2718
+	Top1_Acc_Exp/eval_phase/test_stream/Task000/Exp000 = 0.9227
+-- Starting eval on experience 1 (Task 1) from test stream --
+100%|██████████| 5/5 [00:00<00:00,  7.06it/s]
+> Eval on experience 1 (Task 1) from test stream ended.
+	Loss_Exp/eval_phase/test_stream/Task001/Exp001 = 4.6684
+	Top1_Acc_Exp/eval_phase/test_stream/Task001/Exp001 = 0.0000
+-- Starting eval on experience 2 (Task 2) from test stream --
+100%|██████████| 4/4 [00:00<00:00,  6.86it/s]
+> Eval on experience 2 (Task 2) from test stream ended.
+	Loss_Exp/eval_phase/test_stream/Task002/Exp002 = 5.6127
+	Top1_Acc_Exp/eval_phase/test_stream/Task002/Exp002 = 0.0000
+-- Starting eval on experience 3 (Task 3) from test stream --
+100%|██████████| 5/5 [00:00<00:00,  6.58it/s]
+> Eval on experience 3 (Task 3) from test stream ended.
+	Loss_Exp/eval_phase/test_stream/Task003/Exp003 = 5.3799
+	Top1_Acc_Exp/eval_phase/test_stream/Task003/Exp003 = 0.0000
+-- Starting eval on experience 4 (Task 4) from test stream --
+100%|██████████| 5/5 [00:00<00:00,  6.30it/s]
+> Eval on experience 4 (Task 4) from test stream ended.
+	Loss_Exp/eval_phase/test_stream/Task004/Exp004 = 5.6349
+	Top1_Acc_Exp/eval_phase/test_stream/Task004/Exp004 = 0.0000
+-- >> End of eval phase << --
+	Loss_Stream/eval_phase/test_stream/Task004 = 4.2785
+	StreamForgetting/eval_phase/test_stream = 0.0000
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.1900
+Start of experience:  1
+Current Classes:  {8, 1}
+-- >> Start of training phase << --
+100%|██████████| 16/16 [00:13<00:00,  1.15it/s]
+Epoch 0 ended.
+	Loss_Epoch/train_phase/train_stream = 2.3737
+	Loss_MB/train_phase/train_stream = 1.5320
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4212
+	Top1_Acc_MB/train_phase/train_stream = 0.5810
+100%|██████████| 16/16 [00:13<00:00,  1.19it/s]
+Epoch 1 ended.
+	Loss_Epoch/train_phase/train_stream = 1.8677
+	Loss_MB/train_phase/train_stream = 1.4414
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4302
+	Top1_Acc_MB/train_phase/train_stream = 0.5872
+100%|██████████| 16/16 [00:13<00:00,  1.18it/s]
+Epoch 2 ended.
+	Loss_Epoch/train_phase/train_stream = 1.7677
+	Loss_MB/train_phase/train_stream = 1.4440
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4335
+	Top1_Acc_MB/train_phase/train_stream = 0.5933
+100%|██████████| 16/16 [00:13<00:00,  1.19it/s]
+Epoch 3 ended.
+	Loss_Epoch/train_phase/train_stream = 1.6748
+	Loss_MB/train_phase/train_stream = 1.3359
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4371
+	Top1_Acc_MB/train_phase/train_stream = 0.5933
+100%|██████████| 16/16 [00:13<00:00,  1.19it/s]
+Epoch 4 ended.
+	Loss_Epoch/train_phase/train_stream = 1.5923
+	Loss_MB/train_phase/train_stream = 1.2442
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4409
+	Top1_Acc_MB/train_phase/train_stream = 0.6055
+100%|██████████| 16/16 [00:13<00:00,  1.20it/s]
+Epoch 5 ended.
+	Loss_Epoch/train_phase/train_stream = 1.5258
+	Loss_MB/train_phase/train_stream = 1.2001
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4420
+	Top1_Acc_MB/train_phase/train_stream = 0.6024
+100%|██████████| 16/16 [00:13<00:00,  1.20it/s]
+Epoch 6 ended.
+	Loss_Epoch/train_phase/train_stream = 1.4664
+	Loss_MB/train_phase/train_stream = 1.1460
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4433
+	Top1_Acc_MB/train_phase/train_stream = 0.6086
+100%|██████████| 16/16 [00:13<00:00,  1.19it/s]
+Epoch 7 ended.
+	Loss_Epoch/train_phase/train_stream = 1.4047
+	Loss_MB/train_phase/train_stream = 1.1048
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4455
+	Top1_Acc_MB/train_phase/train_stream = 0.6055
+100%|██████████| 16/16 [00:13<00:00,  1.19it/s]
+Epoch 8 ended.
+	Loss_Epoch/train_phase/train_stream = 1.3538
+	Loss_MB/train_phase/train_stream = 1.0527
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4483
+	Top1_Acc_MB/train_phase/train_stream = 0.6086
+100%|██████████| 16/16 [00:13<00:00,  1.20it/s]
+Epoch 9 ended.
+	Loss_Epoch/train_phase/train_stream = 1.3024
+	Loss_MB/train_phase/train_stream = 1.0236
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4537
+	Top1_Acc_MB/train_phase/train_stream = 0.6086
+100%|██████████| 16/16 [00:13<00:00,  1.20it/s]
+Epoch 10 ended.
+	Loss_Epoch/train_phase/train_stream = 1.2552
+	Loss_MB/train_phase/train_stream = 0.9749
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4599
+	Top1_Acc_MB/train_phase/train_stream = 0.6116
+100%|██████████| 16/16 [00:13<00:00,  1.20it/s]
+Epoch 11 ended.
+	Loss_Epoch/train_phase/train_stream = 1.2060
+	Loss_MB/train_phase/train_stream = 0.9225
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4750
+	Top1_Acc_MB/train_phase/train_stream = 0.6300
+100%|██████████| 16/16 [00:13<00:00,  1.18it/s]
+Epoch 12 ended.
+	Loss_Epoch/train_phase/train_stream = 1.1595
+	Loss_MB/train_phase/train_stream = 0.8723
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4893
+	Top1_Acc_MB/train_phase/train_stream = 0.6453
+100%|██████████| 16/16 [00:13<00:00,  1.19it/s]
+Epoch 13 ended.
+	Loss_Epoch/train_phase/train_stream = 1.1154
+	Loss_MB/train_phase/train_stream = 0.8606
+	Top1_Acc_Epoch/train_phase/train_stream = 0.5098
+	Top1_Acc_MB/train_phase/train_stream = 0.6758
+100%|██████████| 16/16 [00:13<00:00,  1.19it/s]
+Epoch 14 ended.
+	Loss_Epoch/train_phase/train_stream = 1.0676
+	Loss_MB/train_phase/train_stream = 0.7926
+	Top1_Acc_Epoch/train_phase/train_stream = 0.5319
+	Top1_Acc_MB/train_phase/train_stream = 0.6850
+100%|██████████| 16/16 [00:13<00:00,  1.19it/s]
+Epoch 15 ended.
+	Loss_Epoch/train_phase/train_stream = 1.0204
+	Loss_MB/train_phase/train_stream = 0.7668
+	Top1_Acc_Epoch/train_phase/train_stream = 0.5552
+	Top1_Acc_MB/train_phase/train_stream = 0.7064
+100%|██████████| 16/16 [00:13<00:00,  1.20it/s]
+Epoch 16 ended.
+	Loss_Epoch/train_phase/train_stream = 0.9691
+	Loss_MB/train_phase/train_stream = 0.7127
+	Top1_Acc_Epoch/train_phase/train_stream = 0.5843
+	Top1_Acc_MB/train_phase/train_stream = 0.7401
+100%|██████████| 16/16 [00:13<00:00,  1.19it/s]
+Epoch 17 ended.
+	Loss_Epoch/train_phase/train_stream = 0.9241
+	Loss_MB/train_phase/train_stream = 0.7153
+	Top1_Acc_Epoch/train_phase/train_stream = 0.6120
+	Top1_Acc_MB/train_phase/train_stream = 0.7615
+100%|██████████| 16/16 [00:13<00:00,  1.19it/s]
+Epoch 18 ended.
+	Loss_Epoch/train_phase/train_stream = 0.8762
+	Loss_MB/train_phase/train_stream = 0.6682
+	Top1_Acc_Epoch/train_phase/train_stream = 0.6432
+	Top1_Acc_MB/train_phase/train_stream = 0.7737
+100%|██████████| 16/16 [00:13<00:00,  1.19it/s]
+Epoch 19 ended.
+	Loss_Epoch/train_phase/train_stream = 0.8284
+	Loss_MB/train_phase/train_stream = 0.6257
+	Top1_Acc_Epoch/train_phase/train_stream = 0.6700
+	Top1_Acc_MB/train_phase/train_stream = 0.7737
+100%|██████████| 16/16 [00:13<00:00,  1.20it/s]
+Epoch 20 ended.
+	Loss_Epoch/train_phase/train_stream = 0.7810
+	Loss_MB/train_phase/train_stream = 0.5983
+	Top1_Acc_Epoch/train_phase/train_stream = 0.7011
+	Top1_Acc_MB/train_phase/train_stream = 0.8104
+100%|██████████| 16/16 [00:13<00:00,  1.20it/s]
+Epoch 21 ended.
+	Loss_Epoch/train_phase/train_stream = 0.7353
+	Loss_MB/train_phase/train_stream = 0.5642
+	Top1_Acc_Epoch/train_phase/train_stream = 0.7310
+	Top1_Acc_MB/train_phase/train_stream = 0.8440
+100%|██████████| 16/16 [00:13<00:00,  1.17it/s]
+Epoch 22 ended.
+	Loss_Epoch/train_phase/train_stream = 0.6872
+	Loss_MB/train_phase/train_stream = 0.5198
+	Top1_Acc_Epoch/train_phase/train_stream = 0.7685
+	Top1_Acc_MB/train_phase/train_stream = 0.8777
+100%|██████████| 16/16 [00:13<00:00,  1.16it/s]
+Epoch 23 ended.
+	Loss_Epoch/train_phase/train_stream = 0.6448
+	Loss_MB/train_phase/train_stream = 0.4982
+	Top1_Acc_Epoch/train_phase/train_stream = 0.7946
+	Top1_Acc_MB/train_phase/train_stream = 0.8899
+100%|██████████| 16/16 [00:12<00:00,  1.24it/s]
+Epoch 24 ended.
+	Loss_Epoch/train_phase/train_stream = 0.5961
+	Loss_MB/train_phase/train_stream = 0.4677
+	Top1_Acc_Epoch/train_phase/train_stream = 0.8312
+	Top1_Acc_MB/train_phase/train_stream = 0.9297
+100%|██████████| 16/16 [00:12<00:00,  1.27it/s]
+Epoch 25 ended.
+	Loss_Epoch/train_phase/train_stream = 0.5527
+	Loss_MB/train_phase/train_stream = 0.4288
+	Top1_Acc_Epoch/train_phase/train_stream = 0.8580
+	Top1_Acc_MB/train_phase/train_stream = 0.9358
+100%|██████████| 16/16 [00:12<00:00,  1.28it/s]
+Epoch 26 ended.
+	Loss_Epoch/train_phase/train_stream = 0.5092
+	Loss_MB/train_phase/train_stream = 0.4037
+	Top1_Acc_Epoch/train_phase/train_stream = 0.8806
+	Top1_Acc_MB/train_phase/train_stream = 0.9450
+100%|██████████| 16/16 [00:12<00:00,  1.26it/s]
+Epoch 27 ended.
+	Loss_Epoch/train_phase/train_stream = 0.4747
+	Loss_MB/train_phase/train_stream = 0.3737
+	Top1_Acc_Epoch/train_phase/train_stream = 0.8998
+	Top1_Acc_MB/train_phase/train_stream = 0.9817
+100%|██████████| 16/16 [00:12<00:00,  1.28it/s]
+Epoch 28 ended.
+	Loss_Epoch/train_phase/train_stream = 0.4341
+	Loss_MB/train_phase/train_stream = 0.3545
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9160
+	Top1_Acc_MB/train_phase/train_stream = 0.9664
+100%|██████████| 16/16 [00:12<00:00,  1.27it/s]
+Epoch 29 ended.
+	Loss_Epoch/train_phase/train_stream = 0.3986
+	Loss_MB/train_phase/train_stream = 0.3163
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9270
+	Top1_Acc_MB/train_phase/train_stream = 0.9694
+-- >> End of training phase << --
+Training completed
+Computing accuracy on the whole test set
+-- >> Start of eval phase << --
+-- Starting eval on experience 0 (Task 0) from test stream --
+100%|██████████| 5/5 [00:00<00:00, 10.57it/s]
+> Eval on experience 0 (Task 0) from test stream ended.
+	ExperienceForgetting/eval_phase/test_stream/Task000/Exp000 = 0.0935
+	Loss_Exp/eval_phase/test_stream/Task000/Exp000 = 0.6207
+	Top1_Acc_Exp/eval_phase/test_stream/Task000/Exp000 = 0.8291
+-- Starting eval on experience 1 (Task 1) from test stream --
+100%|██████████| 5/5 [00:00<00:00, 10.44it/s]
+> Eval on experience 1 (Task 1) from test stream ended.
+	Loss_Exp/eval_phase/test_stream/Task001/Exp001 = 0.6652
+	Top1_Acc_Exp/eval_phase/test_stream/Task001/Exp001 = 0.8487
+-- Starting eval on experience 2 (Task 2) from test stream --
+100%|██████████| 4/4 [00:00<00:00, 10.88it/s]
+> Eval on experience 2 (Task 2) from test stream ended.
+	Loss_Exp/eval_phase/test_stream/Task002/Exp002 = 4.7158
+	Top1_Acc_Exp/eval_phase/test_stream/Task002/Exp002 = 0.0000
+-- Starting eval on experience 3 (Task 3) from test stream --
+100%|██████████| 5/5 [00:00<00:00, 10.78it/s]
+> Eval on experience 3 (Task 3) from test stream ended.
+	Loss_Exp/eval_phase/test_stream/Task003/Exp003 = 4.3811
+	Top1_Acc_Exp/eval_phase/test_stream/Task003/Exp003 = 0.0000
+-- Starting eval on experience 4 (Task 4) from test stream --
+100%|██████████| 5/5 [00:00<00:00, 10.35it/s]
+> Eval on experience 4 (Task 4) from test stream ended.
+	Loss_Exp/eval_phase/test_stream/Task004/Exp004 = 5.0595
+	Top1_Acc_Exp/eval_phase/test_stream/Task004/Exp004 = 0.0000
+-- >> End of eval phase << --
+	Loss_Stream/eval_phase/test_stream/Task004 = 3.0623
+	StreamForgetting/eval_phase/test_stream = 0.0935
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.3411
+Start of experience:  2
+Current Classes:  {4, 5}
+-- >> Start of training phase << --
+100%|██████████| 13/13 [00:10<00:00,  1.20it/s]
+Epoch 0 ended.
+	Loss_Epoch/train_phase/train_stream = 2.6679
+	Loss_MB/train_phase/train_stream = 2.1558
+	Top1_Acc_Epoch/train_phase/train_stream = 0.3901
+	Top1_Acc_MB/train_phase/train_stream = 0.4772
+100%|██████████| 13/13 [00:10<00:00,  1.27it/s]
+Epoch 1 ended.
+	Loss_Epoch/train_phase/train_stream = 2.3195
+	Loss_MB/train_phase/train_stream = 1.8491
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4056
+	Top1_Acc_MB/train_phase/train_stream = 0.5040
+100%|██████████| 13/13 [00:10<00:00,  1.26it/s]
+Epoch 2 ended.
+	Loss_Epoch/train_phase/train_stream = 2.0149
+	Loss_MB/train_phase/train_stream = 1.6597
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4135
+	Top1_Acc_MB/train_phase/train_stream = 0.5094
+100%|██████████| 13/13 [00:10<00:00,  1.20it/s]
+Epoch 3 ended.
+	Loss_Epoch/train_phase/train_stream = 1.8208
+	Loss_MB/train_phase/train_stream = 1.5429
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4190
+	Top1_Acc_MB/train_phase/train_stream = 0.5201
+100%|██████████| 13/13 [00:11<00:00,  1.15it/s]
+Epoch 4 ended.
+	Loss_Epoch/train_phase/train_stream = 1.7000
+	Loss_MB/train_phase/train_stream = 1.4562
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4245
+	Top1_Acc_MB/train_phase/train_stream = 0.5228
+100%|██████████| 13/13 [00:11<00:00,  1.14it/s]
+Epoch 5 ended.
+	Loss_Epoch/train_phase/train_stream = 1.6100
+	Loss_MB/train_phase/train_stream = 1.3813
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4282
+	Top1_Acc_MB/train_phase/train_stream = 0.5255
+100%|██████████| 13/13 [00:11<00:00,  1.18it/s]
+Epoch 6 ended.
+	Loss_Epoch/train_phase/train_stream = 1.5295
+	Loss_MB/train_phase/train_stream = 1.3139
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4325
+	Top1_Acc_MB/train_phase/train_stream = 0.5308
+100%|██████████| 13/13 [00:11<00:00,  1.17it/s]
+Epoch 7 ended.
+	Loss_Epoch/train_phase/train_stream = 1.4577
+	Loss_MB/train_phase/train_stream = 1.2545
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4419
+	Top1_Acc_MB/train_phase/train_stream = 0.5416
+100%|██████████| 13/13 [00:11<00:00,  1.18it/s]
+Epoch 8 ended.
+	Loss_Epoch/train_phase/train_stream = 1.3877
+	Loss_MB/train_phase/train_stream = 1.1765
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4582
+	Top1_Acc_MB/train_phase/train_stream = 0.5576
+100%|██████████| 13/13 [00:11<00:00,  1.18it/s]
+Epoch 9 ended.
+	Loss_Epoch/train_phase/train_stream = 1.3206
+	Loss_MB/train_phase/train_stream = 1.1223
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4784
+	Top1_Acc_MB/train_phase/train_stream = 0.5871
+100%|██████████| 13/13 [00:11<00:00,  1.17it/s]
+Epoch 10 ended.
+	Loss_Epoch/train_phase/train_stream = 1.2501
+	Loss_MB/train_phase/train_stream = 1.0508
+	Top1_Acc_Epoch/train_phase/train_stream = 0.5141
+	Top1_Acc_MB/train_phase/train_stream = 0.6273
+100%|██████████| 13/13 [00:11<00:00,  1.18it/s]
+Epoch 11 ended.
+	Loss_Epoch/train_phase/train_stream = 1.1871
+	Loss_MB/train_phase/train_stream = 1.0041
+	Top1_Acc_Epoch/train_phase/train_stream = 0.5495
+	Top1_Acc_MB/train_phase/train_stream = 0.6488
+100%|██████████| 13/13 [00:11<00:00,  1.18it/s]
+Epoch 12 ended.
+	Loss_Epoch/train_phase/train_stream = 1.1169
+	Loss_MB/train_phase/train_stream = 0.9397
+	Top1_Acc_Epoch/train_phase/train_stream = 0.5908
+	Top1_Acc_MB/train_phase/train_stream = 0.6729
+100%|██████████| 13/13 [00:11<00:00,  1.16it/s]
+Epoch 13 ended.
+	Loss_Epoch/train_phase/train_stream = 1.0506
+	Loss_MB/train_phase/train_stream = 0.8809
+	Top1_Acc_Epoch/train_phase/train_stream = 0.6344
+	Top1_Acc_MB/train_phase/train_stream = 0.7292
+100%|██████████| 13/13 [00:11<00:00,  1.18it/s]
+Epoch 14 ended.
+	Loss_Epoch/train_phase/train_stream = 0.9900
+	Loss_MB/train_phase/train_stream = 0.8428
+	Top1_Acc_Epoch/train_phase/train_stream = 0.6693
+	Top1_Acc_MB/train_phase/train_stream = 0.7319
+100%|██████████| 13/13 [00:11<00:00,  1.17it/s]
+Epoch 15 ended.
+	Loss_Epoch/train_phase/train_stream = 0.9244
+	Loss_MB/train_phase/train_stream = 0.7864
+	Top1_Acc_Epoch/train_phase/train_stream = 0.7020
+	Top1_Acc_MB/train_phase/train_stream = 0.7560
+100%|██████████| 13/13 [00:11<00:00,  1.15it/s]
+Epoch 16 ended.
+	Loss_Epoch/train_phase/train_stream = 0.8630
+	Loss_MB/train_phase/train_stream = 0.7178
+	Top1_Acc_Epoch/train_phase/train_stream = 0.7307
+	Top1_Acc_MB/train_phase/train_stream = 0.7882
+100%|██████████| 13/13 [00:11<00:00,  1.17it/s]
+Epoch 17 ended.
+	Loss_Epoch/train_phase/train_stream = 0.8058
+	Loss_MB/train_phase/train_stream = 0.6780
+	Top1_Acc_Epoch/train_phase/train_stream = 0.7552
+	Top1_Acc_MB/train_phase/train_stream = 0.8097
+100%|██████████| 13/13 [00:11<00:00,  1.16it/s]
+Epoch 18 ended.
+	Loss_Epoch/train_phase/train_stream = 0.7507
+	Loss_MB/train_phase/train_stream = 0.6189
+	Top1_Acc_Epoch/train_phase/train_stream = 0.7824
+	Top1_Acc_MB/train_phase/train_stream = 0.8633
+100%|██████████| 13/13 [00:11<00:00,  1.10it/s]
+Epoch 19 ended.
+	Loss_Epoch/train_phase/train_stream = 0.7015
+	Loss_MB/train_phase/train_stream = 0.5629
+	Top1_Acc_Epoch/train_phase/train_stream = 0.8048
+	Top1_Acc_MB/train_phase/train_stream = 0.8981
+100%|██████████| 13/13 [00:12<00:00,  1.08it/s]
+Epoch 20 ended.
+	Loss_Epoch/train_phase/train_stream = 0.6548
+	Loss_MB/train_phase/train_stream = 0.5591
+	Top1_Acc_Epoch/train_phase/train_stream = 0.8282
+	Top1_Acc_MB/train_phase/train_stream = 0.8686
+100%|██████████| 13/13 [00:11<00:00,  1.10it/s]
+Epoch 21 ended.
+	Loss_Epoch/train_phase/train_stream = 0.6077
+	Loss_MB/train_phase/train_stream = 0.5107
+	Top1_Acc_Epoch/train_phase/train_stream = 0.8484
+	Top1_Acc_MB/train_phase/train_stream = 0.8954
+100%|██████████| 13/13 [00:11<00:00,  1.17it/s]
+Epoch 22 ended.
+	Loss_Epoch/train_phase/train_stream = 0.5659
+	Loss_MB/train_phase/train_stream = 0.4838
+	Top1_Acc_Epoch/train_phase/train_stream = 0.8703
+	Top1_Acc_MB/train_phase/train_stream = 0.9088
+100%|██████████| 13/13 [00:10<00:00,  1.24it/s]
+Epoch 23 ended.
+	Loss_Epoch/train_phase/train_stream = 0.5234
+	Loss_MB/train_phase/train_stream = 0.4301
+	Top1_Acc_Epoch/train_phase/train_stream = 0.8917
+	Top1_Acc_MB/train_phase/train_stream = 0.9330
+100%|██████████| 13/13 [00:11<00:00,  1.10it/s]
+Epoch 24 ended.
+	Loss_Epoch/train_phase/train_stream = 0.4884
+	Loss_MB/train_phase/train_stream = 0.3980
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9018
+	Top1_Acc_MB/train_phase/train_stream = 0.9303
+100%|██████████| 13/13 [00:11<00:00,  1.13it/s]
+Epoch 25 ended.
+	Loss_Epoch/train_phase/train_stream = 0.4565
+	Loss_MB/train_phase/train_stream = 0.3805
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9160
+	Top1_Acc_MB/train_phase/train_stream = 0.9625
+100%|██████████| 13/13 [00:11<00:00,  1.17it/s]
+Epoch 26 ended.
+	Loss_Epoch/train_phase/train_stream = 0.4282
+	Loss_MB/train_phase/train_stream = 0.3390
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9239
+	Top1_Acc_MB/train_phase/train_stream = 0.9598
+100%|██████████| 13/13 [00:11<00:00,  1.17it/s]
+Epoch 27 ended.
+	Loss_Epoch/train_phase/train_stream = 0.3963
+	Loss_MB/train_phase/train_stream = 0.3407
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9341
+	Top1_Acc_MB/train_phase/train_stream = 0.9625
+100%|██████████| 13/13 [00:11<00:00,  1.17it/s]
+Epoch 28 ended.
+	Loss_Epoch/train_phase/train_stream = 0.3666
+	Loss_MB/train_phase/train_stream = 0.3181
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9429
+	Top1_Acc_MB/train_phase/train_stream = 0.9651
+100%|██████████| 13/13 [00:11<00:00,  1.17it/s]
+Epoch 29 ended.
+	Loss_Epoch/train_phase/train_stream = 0.3444
+	Loss_MB/train_phase/train_stream = 0.3014
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9516
+	Top1_Acc_MB/train_phase/train_stream = 0.9812
+-- >> End of training phase << --
+Training completed
+Computing accuracy on the whole test set
+-- >> Start of eval phase << --
+-- Starting eval on experience 0 (Task 0) from test stream --
+100%|██████████| 5/5 [00:00<00:00, 10.30it/s]
+> Eval on experience 0 (Task 0) from test stream ended.
+	ExperienceForgetting/eval_phase/test_stream/Task000/Exp000 = 0.2500
+	Loss_Exp/eval_phase/test_stream/Task000/Exp000 = 0.9765
+	Top1_Acc_Exp/eval_phase/test_stream/Task000/Exp000 = 0.6727
+-- Starting eval on experience 1 (Task 1) from test stream --
+100%|██████████| 5/5 [00:00<00:00, 10.37it/s]
+> Eval on experience 1 (Task 1) from test stream ended.
+	ExperienceForgetting/eval_phase/test_stream/Task001/Exp001 = 0.0295
+	Loss_Exp/eval_phase/test_stream/Task001/Exp001 = 0.6380
+	Top1_Acc_Exp/eval_phase/test_stream/Task001/Exp001 = 0.8192
+-- Starting eval on experience 2 (Task 2) from test stream --
+100%|██████████| 4/4 [00:00<00:00, 10.23it/s]
+> Eval on experience 2 (Task 2) from test stream ended.
+	Loss_Exp/eval_phase/test_stream/Task002/Exp002 = 0.4960
+	Top1_Acc_Exp/eval_phase/test_stream/Task002/Exp002 = 0.9009
+-- Starting eval on experience 3 (Task 3) from test stream --
+100%|██████████| 5/5 [00:00<00:00, 10.26it/s]
+> Eval on experience 3 (Task 3) from test stream ended.
+	Loss_Exp/eval_phase/test_stream/Task003/Exp003 = 6.4544
+	Top1_Acc_Exp/eval_phase/test_stream/Task003/Exp003 = 0.0000
+-- Starting eval on experience 4 (Task 4) from test stream --
+100%|██████████| 5/5 [00:00<00:00, 10.00it/s]
+> Eval on experience 4 (Task 4) from test stream ended.
+	Loss_Exp/eval_phase/test_stream/Task004/Exp004 = 5.0974
+	Top1_Acc_Exp/eval_phase/test_stream/Task004/Exp004 = 0.0000
+-- >> End of eval phase << --
+	Loss_Stream/eval_phase/test_stream/Task004 = 2.8859
+	StreamForgetting/eval_phase/test_stream = 0.1398
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.4511
+Start of experience:  3
+Current Classes:  {0, 9}
+-- >> Start of training phase << --
+100%|██████████| 17/17 [00:16<00:00,  1.03it/s]
+Epoch 0 ended.
+	Loss_Epoch/train_phase/train_stream = 2.6254
+	Loss_MB/train_phase/train_stream = 2.3220
+	Top1_Acc_Epoch/train_phase/train_stream = 0.3284
+	Top1_Acc_MB/train_phase/train_stream = 0.3581
+100%|██████████| 17/17 [00:14<00:00,  1.16it/s]
+Epoch 1 ended.
+	Loss_Epoch/train_phase/train_stream = 2.1772
+	Loss_MB/train_phase/train_stream = 1.9697
+	Top1_Acc_Epoch/train_phase/train_stream = 0.3603
+	Top1_Acc_MB/train_phase/train_stream = 0.3851
+100%|██████████| 17/17 [00:14<00:00,  1.16it/s]
+Epoch 2 ended.
+	Loss_Epoch/train_phase/train_stream = 1.8950
+	Loss_MB/train_phase/train_stream = 1.7796
+	Top1_Acc_Epoch/train_phase/train_stream = 0.3930
+	Top1_Acc_MB/train_phase/train_stream = 0.4167
+100%|██████████| 17/17 [00:14<00:00,  1.16it/s]
+Epoch 3 ended.
+	Loss_Epoch/train_phase/train_stream = 1.7463
+	Loss_MB/train_phase/train_stream = 1.6848
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4065
+	Top1_Acc_MB/train_phase/train_stream = 0.4167
+100%|██████████| 17/17 [00:14<00:00,  1.16it/s]
+Epoch 4 ended.
+	Loss_Epoch/train_phase/train_stream = 1.6402
+	Loss_MB/train_phase/train_stream = 1.5733
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4173
+	Top1_Acc_MB/train_phase/train_stream = 0.4302
+100%|██████████| 17/17 [00:14<00:00,  1.16it/s]
+Epoch 5 ended.
+	Loss_Epoch/train_phase/train_stream = 1.5453
+	Loss_MB/train_phase/train_stream = 1.4824
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4278
+	Top1_Acc_MB/train_phase/train_stream = 0.4437
+100%|██████████| 17/17 [00:14<00:00,  1.16it/s]
+Epoch 6 ended.
+	Loss_Epoch/train_phase/train_stream = 1.4548
+	Loss_MB/train_phase/train_stream = 1.3915
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4469
+	Top1_Acc_MB/train_phase/train_stream = 0.4775
+100%|██████████| 17/17 [00:14<00:00,  1.16it/s]
+Epoch 7 ended.
+	Loss_Epoch/train_phase/train_stream = 1.3654
+	Loss_MB/train_phase/train_stream = 1.2877
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4749
+	Top1_Acc_MB/train_phase/train_stream = 0.4955
+100%|██████████| 17/17 [00:14<00:00,  1.16it/s]
+Epoch 8 ended.
+	Loss_Epoch/train_phase/train_stream = 1.2773
+	Loss_MB/train_phase/train_stream = 1.2026
+	Top1_Acc_Epoch/train_phase/train_stream = 0.5154
+	Top1_Acc_MB/train_phase/train_stream = 0.5698
+100%|██████████| 17/17 [00:15<00:00,  1.13it/s]
+Epoch 9 ended.
+	Loss_Epoch/train_phase/train_stream = 1.1908
+	Loss_MB/train_phase/train_stream = 1.0947
+	Top1_Acc_Epoch/train_phase/train_stream = 0.5718
+	Top1_Acc_MB/train_phase/train_stream = 0.6261
+100%|██████████| 17/17 [00:14<00:00,  1.21it/s]
+Epoch 10 ended.
+	Loss_Epoch/train_phase/train_stream = 1.1039
+	Loss_MB/train_phase/train_stream = 1.0240
+	Top1_Acc_Epoch/train_phase/train_stream = 0.6262
+	Top1_Acc_MB/train_phase/train_stream = 0.6689
+100%|██████████| 17/17 [00:13<00:00,  1.26it/s]
+Epoch 11 ended.
+	Loss_Epoch/train_phase/train_stream = 1.0170
+	Loss_MB/train_phase/train_stream = 0.9623
+	Top1_Acc_Epoch/train_phase/train_stream = 0.6748
+	Top1_Acc_MB/train_phase/train_stream = 0.7050
+100%|██████████| 17/17 [00:14<00:00,  1.18it/s]
+Epoch 12 ended.
+	Loss_Epoch/train_phase/train_stream = 0.9337
+	Loss_MB/train_phase/train_stream = 0.8762
+	Top1_Acc_Epoch/train_phase/train_stream = 0.7209
+	Top1_Acc_MB/train_phase/train_stream = 0.7613
+100%|██████████| 17/17 [00:15<00:00,  1.13it/s]
+Epoch 13 ended.
+	Loss_Epoch/train_phase/train_stream = 0.8519
+	Loss_MB/train_phase/train_stream = 0.7714
+	Top1_Acc_Epoch/train_phase/train_stream = 0.7687
+	Top1_Acc_MB/train_phase/train_stream = 0.7860
+100%|██████████| 17/17 [00:15<00:00,  1.12it/s]
+Epoch 14 ended.
+	Loss_Epoch/train_phase/train_stream = 0.7730
+	Loss_MB/train_phase/train_stream = 0.7254
+	Top1_Acc_Epoch/train_phase/train_stream = 0.8088
+	Top1_Acc_MB/train_phase/train_stream = 0.8514
+100%|██████████| 17/17 [00:15<00:00,  1.08it/s]
+Epoch 15 ended.
+	Loss_Epoch/train_phase/train_stream = 0.7019
+	Loss_MB/train_phase/train_stream = 0.6401
+	Top1_Acc_Epoch/train_phase/train_stream = 0.8380
+	Top1_Acc_MB/train_phase/train_stream = 0.8761
+100%|██████████| 17/17 [00:15<00:00,  1.08it/s]
+Epoch 16 ended.
+	Loss_Epoch/train_phase/train_stream = 0.6331
+	Loss_MB/train_phase/train_stream = 0.5824
+	Top1_Acc_Epoch/train_phase/train_stream = 0.8647
+	Top1_Acc_MB/train_phase/train_stream = 0.8986
+100%|██████████| 17/17 [00:15<00:00,  1.11it/s]
+Epoch 17 ended.
+	Loss_Epoch/train_phase/train_stream = 0.5646
+	Loss_MB/train_phase/train_stream = 0.5079
+	Top1_Acc_Epoch/train_phase/train_stream = 0.8858
+	Top1_Acc_MB/train_phase/train_stream = 0.9077
+100%|██████████| 17/17 [00:13<00:00,  1.23it/s]
+Epoch 18 ended.
+	Loss_Epoch/train_phase/train_stream = 0.5097
+	Loss_MB/train_phase/train_stream = 0.4612
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9001
+	Top1_Acc_MB/train_phase/train_stream = 0.9167
+100%|██████████| 17/17 [00:13<00:00,  1.25it/s]
+Epoch 19 ended.
+	Loss_Epoch/train_phase/train_stream = 0.4603
+	Loss_MB/train_phase/train_stream = 0.4208
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9134
+	Top1_Acc_MB/train_phase/train_stream = 0.9167
+100%|██████████| 17/17 [00:13<00:00,  1.25it/s]
+Epoch 20 ended.
+	Loss_Epoch/train_phase/train_stream = 0.4173
+	Loss_MB/train_phase/train_stream = 0.3981
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9258
+	Top1_Acc_MB/train_phase/train_stream = 0.9302
+100%|██████████| 17/17 [00:14<00:00,  1.19it/s]
+Epoch 21 ended.
+	Loss_Epoch/train_phase/train_stream = 0.3843
+	Loss_MB/train_phase/train_stream = 0.3308
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9331
+	Top1_Acc_MB/train_phase/train_stream = 0.9572
+100%|██████████| 17/17 [00:14<00:00,  1.16it/s]
+Epoch 22 ended.
+	Loss_Epoch/train_phase/train_stream = 0.3505
+	Loss_MB/train_phase/train_stream = 0.3337
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9410
+	Top1_Acc_MB/train_phase/train_stream = 0.9392
+100%|██████████| 17/17 [00:14<00:00,  1.17it/s]
+Epoch 23 ended.
+	Loss_Epoch/train_phase/train_stream = 0.3220
+	Loss_MB/train_phase/train_stream = 0.2935
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9472
+	Top1_Acc_MB/train_phase/train_stream = 0.9595
+100%|██████████| 17/17 [00:13<00:00,  1.25it/s]
+Epoch 24 ended.
+	Loss_Epoch/train_phase/train_stream = 0.2999
+	Loss_MB/train_phase/train_stream = 0.3028
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9539
+	Top1_Acc_MB/train_phase/train_stream = 0.9459
+100%|██████████| 17/17 [00:13<00:00,  1.26it/s]
+Epoch 25 ended.
+	Loss_Epoch/train_phase/train_stream = 0.2802
+	Loss_MB/train_phase/train_stream = 0.2620
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9574
+	Top1_Acc_MB/train_phase/train_stream = 0.9595
+100%|██████████| 17/17 [00:13<00:00,  1.26it/s]
+Epoch 26 ended.
+	Loss_Epoch/train_phase/train_stream = 0.2629
+	Loss_MB/train_phase/train_stream = 0.2547
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9606
+	Top1_Acc_MB/train_phase/train_stream = 0.9640
+100%|██████████| 17/17 [00:13<00:00,  1.26it/s]
+Epoch 27 ended.
+	Loss_Epoch/train_phase/train_stream = 0.2450
+	Loss_MB/train_phase/train_stream = 0.2384
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9656
+	Top1_Acc_MB/train_phase/train_stream = 0.9685
+100%|██████████| 17/17 [00:13<00:00,  1.26it/s]
+Epoch 28 ended.
+	Loss_Epoch/train_phase/train_stream = 0.2271
+	Loss_MB/train_phase/train_stream = 0.1948
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9689
+	Top1_Acc_MB/train_phase/train_stream = 0.9820
+100%|██████████| 17/17 [00:13<00:00,  1.26it/s]
+Epoch 29 ended.
+	Loss_Epoch/train_phase/train_stream = 0.2172
+	Loss_MB/train_phase/train_stream = 0.1979
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9709
+	Top1_Acc_MB/train_phase/train_stream = 0.9775
+-- >> End of training phase << --
+Training completed
+Computing accuracy on the whole test set
+-- >> Start of eval phase << --
+-- Starting eval on experience 0 (Task 0) from test stream --
+100%|██████████| 5/5 [00:00<00:00, 10.36it/s]
+> Eval on experience 0 (Task 0) from test stream ended.
+	ExperienceForgetting/eval_phase/test_stream/Task000/Exp000 = 0.3022
+	Loss_Exp/eval_phase/test_stream/Task000/Exp000 = 1.0658
+	Top1_Acc_Exp/eval_phase/test_stream/Task000/Exp000 = 0.6205
+-- Starting eval on experience 1 (Task 1) from test stream --
+100%|██████████| 5/5 [00:00<00:00, 10.88it/s]
+> Eval on experience 1 (Task 1) from test stream ended.
+	ExperienceForgetting/eval_phase/test_stream/Task001/Exp001 = 0.1070
+	Loss_Exp/eval_phase/test_stream/Task001/Exp001 = 0.8315
+	Top1_Acc_Exp/eval_phase/test_stream/Task001/Exp001 = 0.7417
+-- Starting eval on experience 2 (Task 2) from test stream --
+100%|██████████| 4/4 [00:00<00:00, 10.22it/s]
+> Eval on experience 2 (Task 2) from test stream ended.
+	ExperienceForgetting/eval_phase/test_stream/Task002/Exp002 = 0.0270
+	Loss_Exp/eval_phase/test_stream/Task002/Exp002 = 0.5727
+	Top1_Acc_Exp/eval_phase/test_stream/Task002/Exp002 = 0.8739
+-- Starting eval on experience 3 (Task 3) from test stream --
+100%|██████████| 5/5 [00:00<00:00, 10.25it/s]
+> Eval on experience 3 (Task 3) from test stream ended.
+	Loss_Exp/eval_phase/test_stream/Task003/Exp003 = 0.3366
+	Top1_Acc_Exp/eval_phase/test_stream/Task003/Exp003 = 0.9357
+-- Starting eval on experience 4 (Task 4) from test stream --
+100%|██████████| 5/5 [00:00<00:00,  9.78it/s]
+> Eval on experience 4 (Task 4) from test stream ended.
+	Loss_Exp/eval_phase/test_stream/Task004/Exp004 = 5.7898
+	Top1_Acc_Exp/eval_phase/test_stream/Task004/Exp004 = 0.0000
+-- >> End of eval phase << --
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.8024
+	StreamForgetting/eval_phase/test_stream = 0.1454
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6196
+Start of experience:  4
+Current Classes:  {3, 7}
+-- >> Start of training phase << --
+100%|██████████| 16/16 [00:13<00:00,  1.17it/s]
+Epoch 0 ended.
+	Loss_Epoch/train_phase/train_stream = 2.8968
+	Loss_MB/train_phase/train_stream = 1.8299
+	Top1_Acc_Epoch/train_phase/train_stream = 0.3532
+	Top1_Acc_MB/train_phase/train_stream = 0.5782
+100%|██████████| 16/16 [00:12<00:00,  1.27it/s]
+Epoch 1 ended.
+	Loss_Epoch/train_phase/train_stream = 2.4223
+	Loss_MB/train_phase/train_stream = 1.5498
+	Top1_Acc_Epoch/train_phase/train_stream = 0.3802
+	Top1_Acc_MB/train_phase/train_stream = 0.6054
+100%|██████████| 16/16 [00:12<00:00,  1.26it/s]
+Epoch 2 ended.
+	Loss_Epoch/train_phase/train_stream = 2.0710
+	Loss_MB/train_phase/train_stream = 1.4136
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4020
+	Top1_Acc_MB/train_phase/train_stream = 0.6224
+100%|██████████| 16/16 [00:12<00:00,  1.28it/s]
+Epoch 3 ended.
+	Loss_Epoch/train_phase/train_stream = 1.9102
+	Loss_MB/train_phase/train_stream = 1.3431
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4104
+	Top1_Acc_MB/train_phase/train_stream = 0.6463
+100%|██████████| 16/16 [00:12<00:00,  1.28it/s]
+Epoch 4 ended.
+	Loss_Epoch/train_phase/train_stream = 1.8118
+	Loss_MB/train_phase/train_stream = 1.2631
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4204
+	Top1_Acc_MB/train_phase/train_stream = 0.6463
+100%|██████████| 16/16 [00:12<00:00,  1.26it/s]
+Epoch 5 ended.
+	Loss_Epoch/train_phase/train_stream = 1.7354
+	Loss_MB/train_phase/train_stream = 1.1862
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4284
+	Top1_Acc_MB/train_phase/train_stream = 0.6565
+100%|██████████| 16/16 [00:12<00:00,  1.27it/s]
+Epoch 6 ended.
+	Loss_Epoch/train_phase/train_stream = 1.6619
+	Loss_MB/train_phase/train_stream = 1.1221
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4361
+	Top1_Acc_MB/train_phase/train_stream = 0.6599
+100%|██████████| 16/16 [00:12<00:00,  1.27it/s]
+Epoch 7 ended.
+	Loss_Epoch/train_phase/train_stream = 1.5916
+	Loss_MB/train_phase/train_stream = 1.0627
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4431
+	Top1_Acc_MB/train_phase/train_stream = 0.6667
+100%|██████████| 16/16 [00:12<00:00,  1.28it/s]
+Epoch 8 ended.
+	Loss_Epoch/train_phase/train_stream = 1.5180
+	Loss_MB/train_phase/train_stream = 1.0220
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4516
+	Top1_Acc_MB/train_phase/train_stream = 0.6837
+100%|██████████| 16/16 [00:12<00:00,  1.27it/s]
+Epoch 9 ended.
+	Loss_Epoch/train_phase/train_stream = 1.4452
+	Loss_MB/train_phase/train_stream = 0.9417
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4673
+	Top1_Acc_MB/train_phase/train_stream = 0.7041
+100%|██████████| 16/16 [00:12<00:00,  1.28it/s]
+Epoch 10 ended.
+	Loss_Epoch/train_phase/train_stream = 1.3681
+	Loss_MB/train_phase/train_stream = 0.8974
+	Top1_Acc_Epoch/train_phase/train_stream = 0.4891
+	Top1_Acc_MB/train_phase/train_stream = 0.7007
+100%|██████████| 16/16 [00:12<00:00,  1.27it/s]
+Epoch 11 ended.
+	Loss_Epoch/train_phase/train_stream = 1.2894
+	Loss_MB/train_phase/train_stream = 0.8555
+	Top1_Acc_Epoch/train_phase/train_stream = 0.5206
+	Top1_Acc_MB/train_phase/train_stream = 0.7279
+100%|██████████| 16/16 [00:12<00:00,  1.27it/s]
+Epoch 12 ended.
+	Loss_Epoch/train_phase/train_stream = 1.2062
+	Loss_MB/train_phase/train_stream = 0.7531
+	Top1_Acc_Epoch/train_phase/train_stream = 0.5561
+	Top1_Acc_MB/train_phase/train_stream = 0.7789
+100%|██████████| 16/16 [00:12<00:00,  1.25it/s]
+Epoch 13 ended.
+	Loss_Epoch/train_phase/train_stream = 1.1201
+	Loss_MB/train_phase/train_stream = 0.6854
+	Top1_Acc_Epoch/train_phase/train_stream = 0.5976
+	Top1_Acc_MB/train_phase/train_stream = 0.8129
+100%|██████████| 16/16 [00:12<00:00,  1.28it/s]
+Epoch 14 ended.
+	Loss_Epoch/train_phase/train_stream = 1.0296
+	Loss_MB/train_phase/train_stream = 0.6224
+	Top1_Acc_Epoch/train_phase/train_stream = 0.6505
+	Top1_Acc_MB/train_phase/train_stream = 0.8639
+100%|██████████| 16/16 [00:12<00:00,  1.27it/s]
+Epoch 15 ended.
+	Loss_Epoch/train_phase/train_stream = 0.9398
+	Loss_MB/train_phase/train_stream = 0.5552
+	Top1_Acc_Epoch/train_phase/train_stream = 0.6965
+	Top1_Acc_MB/train_phase/train_stream = 0.8844
+100%|██████████| 16/16 [00:12<00:00,  1.27it/s]
+Epoch 16 ended.
+	Loss_Epoch/train_phase/train_stream = 0.8471
+	Loss_MB/train_phase/train_stream = 0.5034
+	Top1_Acc_Epoch/train_phase/train_stream = 0.7453
+	Top1_Acc_MB/train_phase/train_stream = 0.9048
+100%|██████████| 16/16 [00:12<00:00,  1.28it/s]
+Epoch 17 ended.
+	Loss_Epoch/train_phase/train_stream = 0.7589
+	Loss_MB/train_phase/train_stream = 0.4309
+	Top1_Acc_Epoch/train_phase/train_stream = 0.7935
+	Top1_Acc_MB/train_phase/train_stream = 0.9422
+100%|██████████| 16/16 [00:12<00:00,  1.28it/s]
+Epoch 18 ended.
+	Loss_Epoch/train_phase/train_stream = 0.6758
+	Loss_MB/train_phase/train_stream = 0.4092
+	Top1_Acc_Epoch/train_phase/train_stream = 0.8295
+	Top1_Acc_MB/train_phase/train_stream = 0.9558
+100%|██████████| 16/16 [00:12<00:00,  1.28it/s]
+Epoch 19 ended.
+	Loss_Epoch/train_phase/train_stream = 0.6003
+	Loss_MB/train_phase/train_stream = 0.3761
+	Top1_Acc_Epoch/train_phase/train_stream = 0.8615
+	Top1_Acc_MB/train_phase/train_stream = 0.9490
+100%|██████████| 16/16 [00:12<00:00,  1.27it/s]
+Epoch 20 ended.
+	Loss_Epoch/train_phase/train_stream = 0.5352
+	Loss_MB/train_phase/train_stream = 0.3389
+	Top1_Acc_Epoch/train_phase/train_stream = 0.8863
+	Top1_Acc_MB/train_phase/train_stream = 0.9592
+100%|██████████| 16/16 [00:12<00:00,  1.27it/s]
+Epoch 21 ended.
+	Loss_Epoch/train_phase/train_stream = 0.4784
+	Loss_MB/train_phase/train_stream = 0.3355
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9072
+	Top1_Acc_MB/train_phase/train_stream = 0.9660
+100%|██████████| 16/16 [00:12<00:00,  1.27it/s]
+Epoch 22 ended.
+	Loss_Epoch/train_phase/train_stream = 0.4307
+	Loss_MB/train_phase/train_stream = 0.3010
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9232
+	Top1_Acc_MB/train_phase/train_stream = 0.9762
+100%|██████████| 16/16 [00:12<00:00,  1.26it/s]
+Epoch 23 ended.
+	Loss_Epoch/train_phase/train_stream = 0.3914
+	Loss_MB/train_phase/train_stream = 0.2921
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9361
+	Top1_Acc_MB/train_phase/train_stream = 0.9626
+100%|██████████| 16/16 [00:12<00:00,  1.28it/s]
+Epoch 24 ended.
+	Loss_Epoch/train_phase/train_stream = 0.3568
+	Loss_MB/train_phase/train_stream = 0.2782
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9463
+	Top1_Acc_MB/train_phase/train_stream = 0.9626
+100%|██████████| 16/16 [00:12<00:00,  1.27it/s]
+Epoch 25 ended.
+	Loss_Epoch/train_phase/train_stream = 0.3250
+	Loss_MB/train_phase/train_stream = 0.2541
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9546
+	Top1_Acc_MB/train_phase/train_stream = 0.9694
+100%|██████████| 16/16 [00:12<00:00,  1.27it/s]
+Epoch 26 ended.
+	Loss_Epoch/train_phase/train_stream = 0.3005
+	Loss_MB/train_phase/train_stream = 0.2417
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9609
+	Top1_Acc_MB/train_phase/train_stream = 0.9694
+100%|██████████| 16/16 [00:12<00:00,  1.27it/s]
+Epoch 27 ended.
+	Loss_Epoch/train_phase/train_stream = 0.2822
+	Loss_MB/train_phase/train_stream = 0.2292
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9613
+	Top1_Acc_MB/train_phase/train_stream = 0.9694
+100%|██████████| 16/16 [00:12<00:00,  1.26it/s]
+Epoch 28 ended.
+	Loss_Epoch/train_phase/train_stream = 0.2601
+	Loss_MB/train_phase/train_stream = 0.2144
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9682
+	Top1_Acc_MB/train_phase/train_stream = 0.9660
+100%|██████████| 16/16 [00:12<00:00,  1.26it/s]
+Epoch 29 ended.
+	Loss_Epoch/train_phase/train_stream = 0.2472
+	Loss_MB/train_phase/train_stream = 0.2210
+	Top1_Acc_Epoch/train_phase/train_stream = 0.9699
+	Top1_Acc_MB/train_phase/train_stream = 0.9660
+-- >> End of training phase << --
+Training completed
+Computing accuracy on the whole test set
+-- >> Start of eval phase << --
+-- Starting eval on experience 0 (Task 0) from test stream --
+100%|██████████| 5/5 [00:00<00:00, 10.31it/s]
+> Eval on experience 0 (Task 0) from test stream ended.
+	ExperienceForgetting/eval_phase/test_stream/Task000/Exp000 = 0.3795
+	Loss_Exp/eval_phase/test_stream/Task000/Exp000 = 1.3824
+	Top1_Acc_Exp/eval_phase/test_stream/Task000/Exp000 = 0.5432
+-- Starting eval on experience 1 (Task 1) from test stream --
+100%|██████████| 5/5 [00:00<00:00, 11.13it/s]
+> Eval on experience 1 (Task 1) from test stream ended.
+	ExperienceForgetting/eval_phase/test_stream/Task001/Exp001 = 0.3229
+	Loss_Exp/eval_phase/test_stream/Task001/Exp001 = 1.1740
+	Top1_Acc_Exp/eval_phase/test_stream/Task001/Exp001 = 0.5258
+-- Starting eval on experience 2 (Task 2) from test stream --
+100%|██████████| 4/4 [00:00<00:00,  9.87it/s]
+> Eval on experience 2 (Task 2) from test stream ended.
+	ExperienceForgetting/eval_phase/test_stream/Task002/Exp002 = 0.2320
+	Loss_Exp/eval_phase/test_stream/Task002/Exp002 = 1.0090
+	Top1_Acc_Exp/eval_phase/test_stream/Task002/Exp002 = 0.6689
+-- Starting eval on experience 3 (Task 3) from test stream --
+100%|██████████| 5/5 [00:00<00:00, 10.49it/s]
+> Eval on experience 3 (Task 3) from test stream ended.
+	ExperienceForgetting/eval_phase/test_stream/Task003/Exp003 = 0.0643
+	Loss_Exp/eval_phase/test_stream/Task003/Exp003 = 0.4599
+	Top1_Acc_Exp/eval_phase/test_stream/Task003/Exp003 = 0.8713
+-- Starting eval on experience 4 (Task 4) from test stream --
+100%|██████████| 5/5 [00:00<00:00,  9.91it/s]
+> Eval on experience 4 (Task 4) from test stream ended.
+	Loss_Exp/eval_phase/test_stream/Task004/Exp004 = 0.3828
+	Top1_Acc_Exp/eval_phase/test_stream/Task004/Exp004 = 0.9314
+-- >> End of eval phase << --
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.8669
+	StreamForgetting/eval_phase/test_stream = 0.2497
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7141
