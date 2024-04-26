@@ -1,5 +1,5 @@
 /saved
 .DS_Store
 token
-/test_data
-/train_data
+models/soil-esimation/test_data
+models/soil-esimation/train_data
