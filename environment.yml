@@ -96,8 +96,8 @@ dependencies:
       - sympy==1.12
       - tensorboard==2.16.2
       - tensorboard-data-server==0.7.2
-      - torch==2.2.1
-      - torchvision==0.17.1
-      - triton==2.2.0
+      - torch==2.0.0+cu117
+      - torchvision==0.15.0
+      - triton==2.0.0
       - werkzeug==3.0.1
 prefix: /opt/conda/envs/Earth_Observation

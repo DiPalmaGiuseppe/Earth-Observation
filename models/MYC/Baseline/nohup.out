@@ -1,0 +1,173 @@
+/home/gdpalma/miniconda3/lib/python3.10/site-packages/rasterio/__init__.py:304: NotGeoreferencedWarning: Dataset has no geotransform, gcps, or rpcs. The identity matrix will be returned.
+  dataset = DatasetReader(path, driver=driver, sharing=sharing, **kwargs)
+/home/gdpalma/miniconda3/lib/python3.10/site-packages/rasterio/__init__.py:304: NotGeoreferencedWarning: Dataset has no geotransform, gcps, or rpcs. The identity matrix will be returned.
+  dataset = DatasetReader(path, driver=driver, sharing=sharing, **kwargs)
+30849
+============= EPOCH 1 =============
+LOSS : train 5.0346 | valid 5.6897
+ACC  : train 18.32% | valid 11%
+============= EPOCH 2 =============
+LOSS : train 3.634 | valid 3.088
+ACC  : train 18.87% | valid 14%
+============= EPOCH 3 =============
+LOSS : train 3.6077 | valid 16.715
+ACC  : train 18.32% | valid 13%
+============= EPOCH 4 =============
+LOSS : train 3.1631 | valid 3.7071
+ACC  : train 18.64% | valid 13%
+============= EPOCH 5 =============
+LOSS : train 3.3794 | valid 3.6701
+ACC  : train 19.26% | valid 28%
+============= EPOCH 6 =============
+LOSS : train 3.1484 | valid 4.0409
+ACC  : train 18.68% | valid 8%
+============= EPOCH 7 =============
+LOSS : train 3.5631 | valid 2.8498
+ACC  : train 18.32% | valid 25%
+============= EPOCH 8 =============
+LOSS : train 3.2474 | valid 3.3724
+ACC  : train 19.49% | valid 19%
+============= EPOCH 9 =============
+LOSS : train 3.8736 | valid 2.4301
+ACC  : train 19.39% | valid 28%
+============= EPOCH 10 =============
+LOSS : train 3.4515 | valid 7.1187
+ACC  : train 19.2% | valid 25%
+============= EPOCH 11 =============
+LOSS : train 3.0799 | valid 2.0882
+ACC  : train 18.97% | valid 29%
+============= EPOCH 12 =============
+LOSS : train 3.9836 | valid 3.175
+ACC  : train 18.97% | valid 29%
+============= EPOCH 13 =============
+LOSS : train 3.0524 | valid 3.9599
+ACC  : train 20.46% | valid 26%
+============= EPOCH 14 =============
+LOSS : train 3.3129 | valid 3.7508
+ACC  : train 20.14% | valid 29%
+============= EPOCH 15 =============
+LOSS : train 3.2618 | valid 3.7543
+ACC  : train 19.42% | valid 12%
+============= EPOCH 16 =============
+LOSS : train 3.2454 | valid 3.7441
+ACC  : train 20.75% | valid 13%
+============= EPOCH 17 =============
+LOSS : train 3.1929 | valid 3.1226
+ACC  : train 19.94% | valid 29%
+============= EPOCH 18 =============
+LOSS : train 2.9466 | valid 2.7658
+ACC  : train 20.65% | valid 29%
+============= EPOCH 19 =============
+LOSS : train 3.379 | valid 3.0868
+ACC  : train 20.46% | valid 13%
+============= EPOCH 20 =============
+LOSS : train 3.6969 | valid 2.6271
+ACC  : train 19.78% | valid 24%
+============= EPOCH 21 =============
+LOSS : train 3.2555 | valid 3.4729
+ACC  : train 20.65% | valid 26%
+============= EPOCH 22 =============
+LOSS : train 3.1882 | valid 3.3535
+ACC  : train 19.62% | valid 16%
+============= EPOCH 23 =============
+LOSS : train 3.3204 | valid 5.349
+ACC  : train 19.97% | valid 16%
+============= EPOCH 24 =============
+LOSS : train 3.3448 | valid 2.8279
+ACC  : train 21.37% | valid 30%
+============= EPOCH 25 =============
+LOSS : train 3.2271 | valid 2.3392
+ACC  : train 21.47% | valid 30%
+============= EPOCH 26 =============
+LOSS : train 2.8384 | valid 2.6753
+ACC  : train 22.5% | valid 23%
+============= EPOCH 27 =============
+LOSS : train 3.5509 | valid 2.1447
+ACC  : train 20.14% | valid 29%
+============= EPOCH 28 =============
+LOSS : train 3.1817 | valid 3.543
+ACC  : train 22.41% | valid 14%
+============= EPOCH 29 =============
+LOSS : train 2.5723 | valid 3.4653
+ACC  : train 23.22% | valid 30%
+============= EPOCH 30 =============
+LOSS : train 3.4804 | valid 3.0049
+ACC  : train 23.7% | valid 31%
+============= EPOCH 31 =============
+LOSS : train 3.1293 | valid 5.4263
+ACC  : train 22.63% | valid 10%
+============= EPOCH 32 =============
+LOSS : train 3.3528 | valid 3.5338
+ACC  : train 22.44% | valid 13%
+============= EPOCH 33 =============
+LOSS : train 3.0249 | valid 2.3183
+ACC  : train 23.48% | valid 14%
+============= EPOCH 34 =============
+LOSS : train 3.0368 | valid 4.8849
+ACC  : train 23.48% | valid 16%
+============= EPOCH 35 =============
+LOSS : train 3.4188 | valid 6.3706
+ACC  : train 23.22% | valid 28%
+============= EPOCH 36 =============
+LOSS : train 3.2174 | valid 2.9618
+ACC  : train 23.77% | valid 30%
+============= EPOCH 37 =============
+LOSS : train 3.2635 | valid 3.3821
+ACC  : train 24.77% | valid 17%
+============= EPOCH 38 =============
+LOSS : train 3.3037 | valid 2.1052
+ACC  : train 23.67% | valid 24%
+============= EPOCH 39 =============
+LOSS : train 3.6348 | valid 2.6808
+ACC  : train 23.02% | valid 32%
+============= EPOCH 40 =============
+LOSS : train 3.1021 | valid 2.5207
+ACC  : train 24.32% | valid 20%
+============= EPOCH 41 =============
+LOSS : train 3.2202 | valid 2.788
+ACC  : train 24.71% | valid 27%
+============= EPOCH 42 =============
+LOSS : train 3.3805 | valid 3.2302
+ACC  : train 23.8% | valid 16%
+============= EPOCH 43 =============
+LOSS : train 3.0279 | valid 4.0769
+ACC  : train 24.94% | valid 27%
+============= EPOCH 44 =============
+LOSS : train 3.2104 | valid 4.3762
+ACC  : train 24.97% | valid 16%
+============= EPOCH 45 =============
+LOSS : train 3.1563 | valid 3.5929
+ACC  : train 23.41% | valid 28%
+============= EPOCH 46 =============
+LOSS : train 3.2533 | valid 3.1675
+ACC  : train 26.04% | valid 19%
+============= EPOCH 47 =============
+LOSS : train 2.9364 | valid 3.3192
+ACC  : train 26.07% | valid 32%
+============= EPOCH 48 =============
+LOSS : train 3.1189 | valid 4.4773
+ACC  : train 25.29% | valid 21%
+============= EPOCH 49 =============
+LOSS : train 3.5251 | valid 4.9752
+ACC  : train 25.68% | valid 13%
+============= EPOCH 50 =============
+LOSS : train 3.2275 | valid 5.7819
+ACC  : train 26.01% | valid 13%
+Traceback (most recent call last):
+  File "/home/gdpalma/Earth-Observation/models/MYC/MYC.py", line 1155, in <module>
+    predictions(test_dataloader)
+  File "/home/gdpalma/Earth-Observation/models/MYC/MYC.py", line 1140, in predictions
+    for _,tdata in enumerate(dataloader):
+  File "/home/gdpalma/miniconda3/lib/python3.10/site-packages/torch/utils/data/dataloader.py", line 634, in __next__
+    data = self._next_data()
+  File "/home/gdpalma/miniconda3/lib/python3.10/site-packages/torch/utils/data/dataloader.py", line 678, in _next_data
+    data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+  File "/home/gdpalma/miniconda3/lib/python3.10/site-packages/torch/utils/data/_utils/fetch.py", line 51, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/home/gdpalma/miniconda3/lib/python3.10/site-packages/torch/utils/data/_utils/fetch.py", line 51, in <listcomp>
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/home/gdpalma/Earth-Observation/models/MYC/MYC.py", line 139, in __getitem__
+    return self.transform(X,X2,X3) if self.transform else (X,X2,X3)
+  File "/home/gdpalma/Earth-Observation/models/MYC/MYC.py", line 164, in __call__
+    self.transform_X3(args[2].permute(1, 0, 2)))
+AttributeError: 'numpy.ndarray' object has no attribute 'permute'
