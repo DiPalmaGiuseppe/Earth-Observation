@@ -1,14 +1,0 @@
-Downloading: "https://download.pytorch.org/models/resnet50-11ad3fa6.pth" to /home/gdpalma/.cache/torch/hub/checkpoints/resnet50-11ad3fa6.pth
-30849
-  0%|          | 0.00/97.8M [00:00<?, ?B/s]  1%|          | 1.02M/97.8M [00:00<00:10, 9.95MB/s]  3%|▎         | 2.99M/97.8M [00:00<00:06, 14.8MB/s]  6%|▌         | 5.63M/97.8M [00:00<00:05, 19.3MB/s]  9%|▉         | 8.65M/97.8M [00:00<00:03, 23.8MB/s] 13%|█▎        | 13.1M/97.8M [00:00<00:02, 30.7MB/s] 18%|█▊        | 18.0M/97.8M [00:00<00:02, 37.5MB/s] 25%|██▌       | 24.7M/97.8M [00:00<00:01, 47.7MB/s] 34%|███▎      | 32.9M/97.8M [00:00<00:01, 59.8MB/s] 45%|████▌     | 44.2M/97.8M [00:00<00:00, 77.7MB/s] 60%|█████▉    | 58.2M/97.8M [00:01<00:00, 98.8MB/s] 77%|███████▋  | 75.7M/97.8M [00:01<00:00, 124MB/s] 100%|██████████| 97.8M/97.8M [00:01<00:00, 82.5MB/s]
-/home/gdpalma/miniconda3/lib/python3.10/site-packages/rasterio/__init__.py:304: NotGeoreferencedWarning: Dataset has no geotransform, gcps, or rpcs. The identity matrix will be returned.
-  dataset = DatasetReader(path, driver=driver, sharing=sharing, **kwargs)
-============= EPOCH 1 =============
-LOSS : train 4.7377 | valid 36.291
-ACC  : train 18.16% | valid 16%
-Traceback (most recent call last):
-  File "/home/gdpalma/Earth-Observation/models/MYC/distillation/MYC_distillation.py", line 1372, in <module>
-    train_knowledge_distillation(teacher=teacher, student=student, T=2, soft_target_loss_weight=0.25, ce_loss_weight=0.75, device=device,student_path="./student_model")
-  File "/home/gdpalma/Earth-Observation/models/MYC/distillation/MYC_distillation.py", line 1272, in train_knowledge_distillation
-    optimizer = torch.optim.AdamW(student.parameters(), lr=config['lr'], weight_decay=config['weight_decay'])
-NameError: name 'config' is not defined
